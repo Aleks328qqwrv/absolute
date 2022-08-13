@@ -20,8 +20,6 @@ body {
 }
 
 .blocks {
-	margin-right: auto;
-	margin-left: auto;
 	height: 200px;
 	width: 250px;
 	border-radius: 25px;
