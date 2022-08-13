@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #4c6362;
+}
+
+.wrapper {
+	padding-top: 30px;
+	height: 430px;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	
+    	
+}
+
+.blocks {
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+	width: 250px;
+	border-radius: 25px;
+	border: solid white;
+}
+
+.a1 {
+	background-color: red;
+    
+}
+
+.a2 {
+	background-color: blue;
+	height: 150px;
+	width: 175px;
+	border: dashed whitesmoke;
+    position: absolute;
+    transform: translate(22%,-50%);
+    
+}
+
+.a3 {
+	background-color: yellow;
+	
+}
